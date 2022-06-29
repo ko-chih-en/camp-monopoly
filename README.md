@@ -69,4 +69,4 @@ socket.io, dotenv, nodemon, eslint, prettier, lint-staged
 
 ## Contribution
 
-This is the first frontend + backend project done only by myself, any advice, issues, and pull requests are welcomed!
+This is copy from MortalHappiness!
